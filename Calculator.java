@@ -5,6 +5,7 @@ public class Calculator
 
 		System.out.println("Hello World !!!!");
 		System.out.println("Calculator java program");
+		System.out.println("HELP");
 	
 	}
 
